@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1061206872292",
+    "firebase_url": "https://luffy-93186.firebaseio.com",
+    "project_id": "luffy-93186",
+    "storage_bucket": "luffy-93186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061206872292:android:f57f2757391a33d2871cf1",
+        "android_client_info": {
+          "package_name": "com.example.luffy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061206872292-jpeo5ecr5at03q17pvt7rpvur07pv1mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luffy",
+            "certificate_hash": "198c2c6c790f93cb041e3c9701d0ff0c14a297c2"
+          }
+        },
+        {
+          "client_id": "1061206872292-mdhdjfjh6naat25araij0vpdu0sb0m7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luffy",
+            "certificate_hash": "8e696f3f702b39ed92d2f695cacc897b47d945f7"
+          }
+        },
+        {
+          "client_id": "1061206872292-m9obdpoa0h63ukvje4pm3e5gil1mn8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKu2pNkstT95PZOfKOByO0UZZGp7aBG7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061206872292-m9obdpoa0h63ukvje4pm3e5gil1mn8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061206872292:android:d9f7e81363a69441871cf1",
+        "android_client_info": {
+          "package_name": "com.shashi.luffy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061206872292-3gaoktkpp9jf6fsfc3p2hecptp3do07l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashi.luffy",
+            "certificate_hash": "e4c034b5d6c61ed3415f3bdf56c24ec415d041f3"
+          }
+        },
+        {
+          "client_id": "1061206872292-m9obdpoa0h63ukvje4pm3e5gil1mn8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKu2pNkstT95PZOfKOByO0UZZGp7aBG7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061206872292-m9obdpoa0h63ukvje4pm3e5gil1mn8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="#FFFFFF"
+        android:layout_height="wrap_content">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:id="@+id/avatarIv"
+            android:src="@drawable/luffy"
+            android:layout_marginEnd="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:layout_marginTop="3dp"
+
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@+id/avatarIv"
+            android:textColor="@color/colorBack"
+            android:id="@+id/nameTv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a Comment"
+            android:layout_below="@+id/nameTv"
+            android:id="@+id/commentTv"
+            android:layout_toEndOf="@+id/avatarIv"
+            android:textColor="@color/colorBack"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/timeTv"
+            android:textColor="@color/colorBack"
+            android:layout_below="@+id/commentTv"
+            android:layout_toEndOf="@+id/avatarIv"
+            android:layout_toRightOf="@+id/avatarIv"
+            android:text="12/06/2019"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

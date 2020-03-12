@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp"
+    tools:context=".Profile_Options.More_Info">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education"
+        android:id="@+id/education_tv"
+        android:layout_marginTop="3dp"
+        android:textStyle="bold"
+        android:layout_marginStart="4dp"
+        android:drawableEnd="@drawable/ic_edit"
+        android:textSize="24sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rel1"
+        android:layout_below="@+id/education_tv">
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Info"
+        android:id="@+id/Contact_info"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/rel1"
+        android:textStyle="bold"
+        android:layout_marginStart="4dp"
+        android:drawableEnd="@drawable/ic_edit"
+        android:textSize="24sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rel2"
+        android:layout_below="@+id/Contact_info">
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basic Info"
+        android:id="@+id/basic_info"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/rel2"
+        android:textStyle="bold"
+        android:layout_marginStart="4dp"
+        android:drawableEnd="@drawable/ic_edit"
+        android:textSize="24sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rel3"
+        android:layout_below="@+id/basic_info">
+
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Places you've lived"
+        android:id="@+id/places_info"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/rel3"
+        android:textStyle="bold"
+        android:layout_marginStart="4dp"
+        android:drawableEnd="@drawable/ic_edit"
+        android:textSize="24sp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rel4"
+        android:layout_below="@+id/places_info">
+
+    </RelativeLayout>
+
+</RelativeLayout>

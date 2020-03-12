@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/ic_action_home"
+       />
+    <item
+        android:id="@+id/bottom_users"
+        android:icon="@drawable/ic_comment_white"
+
+        />
+    <item
+        android:id="@+id/bottom_notification"
+        android:icon="@drawable/ic_notification_white"
+
+        />
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/ic_account_white"
+        />
+
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="60dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="50dp"
+            android:id="@+id/notifydp"
+            android:layout_marginLeft="8dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/luffy"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="14dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorBack"
+            android:id="@+id/notifyusername"
+            />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBack"
+                android:layout_marginTop="14dp"
+                android:textSize="17dp"
+                android:id="@+id/typenotify"
+                android:layout_marginStart="2dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/notifytime"
+                android:layout_toLeftOf="@+id/notifyphoto"
+                android:layout_below="@+id/typenotify"
+                android:textColor="@color/colorBack"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:src="@drawable/luffy"
+                android:layout_gravity="end"
+                android:id="@+id/notifyphoto"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="4dp"
+                android:layout_height="match_parent"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
