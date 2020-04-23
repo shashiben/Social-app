@@ -1,44 +1,16 @@
      [{
-            "id": 1,
-            "email": "michael.lawson@demo.io",
-            "firstName": "Michael",
-            "lastName": "Lawson",
+            "email": "kim@gmail.com",
+            "Name": "Ram Mohan",
+            "phone": "*******",
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+            "uid": ""
         },
         {
-            "id": 2,
-            "email": "lindsay.ferguson@demo.io",
-            "firstName": "Lindsay",
-            "lastName": "Ferguson",
+            "email": "lol@gmail.com",
+            "fullName": "Madhu Murthy",
+            "phone": "*****",
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
+            "uid": ""
         },
-        {
-            "id": 3,
-            "email": "tobias.funke@demo.io",
-            "firstName": "Tobias",
-            "lastName": "Funke",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"
-        },
-        {
-            "id": 4,
-            "email": "byron.fields@demo.io",
-            "firstName": "Byron",
-            "lastName": "Fields",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
-        },
-        {
-            "id": 5,
-            "email": "george.edwards@demo.io",
-            "firstName": "George",
-            "lastName": "Edwards",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
-        },
-        {
-            "id": 6,
-            "email": "rachel.howell@demo.io",
-            "firstName": "Rachel",
-            "lastName": "Howell",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
-        }
         
         ]
