@@ -1,5 +1,4 @@
-{
-"staff":[{
+     [{
             "id": 1,
             "email": "michael.lawson@demo.io",
             "firstName": "Michael",
@@ -43,4 +42,3 @@
         }
         
         ]
-}
