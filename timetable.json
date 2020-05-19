@@ -4,6 +4,111 @@
     "start_time": "09:30",
     "end_time": "12:30",
     "day": "MON",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "MON",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DBMS Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "TUE",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "TUE",
+    "year": "first_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "08:30",
+    "end_time": "10:30",
+    "day": "WED",
+    "year": "first_year"
+  },
+  {
+    "class_name": "CAA & NT",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "WED",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DAA Lab",
+    "start_time": "02:30",
+    "end_time": "05:30",
+    "day": "WED",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "THU",
+    "year": "first_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "THU",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "THU",
+    "year": "first_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "03:00",
+    "end_time": "05:00",
+    "day": "THU",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "FRI",
+    "year": "first_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "FRI",
+    "year": "first_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "FRI",
+    "year": "first_year"
+  },
+  {
+    "class_name": "CA & NT",
+    "start_time": "03:00",
+    "end_time": "04:00",
+    "day": "FRI",
+    "year": "first_year"
+  }
+  ,{
+    "class_name": "VHDL Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "MON",
     "year": "second_year"
   },
   {
@@ -103,5 +208,215 @@
     "end_time": "04:00",
     "day": "FRI",
     "year": "second_year"
+  },
+  {
+    "class_name": "VHDL Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "MON",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "MON",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DBMS Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "TUE",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "TUE",
+    "year": "third_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "08:30",
+    "end_time": "10:30",
+    "day": "WED",
+    "year": "third_year"
+  },
+  {
+    "class_name": "CAA & NT",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "WED",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DAA Lab",
+    "start_time": "02:30",
+    "end_time": "05:30",
+    "day": "WED",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "THU",
+    "year": "third_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "THU",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "THU",
+    "year": "third_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "03:00",
+    "end_time": "05:00",
+    "day": "THU",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "FRI",
+    "year": "third_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "FRI",
+    "year": "third_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "FRI",
+    "year": "third_year"
+  },
+  {
+    "class_name": "CA & NT",
+    "start_time": "03:00",
+    "end_time": "04:00",
+    "day": "FRI",
+    "year": "third_year"
+  },
+  {
+    "class_name": "VHDL Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "MON",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "MON",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DBMS Lab",
+    "start_time": "09:30",
+    "end_time": "12:30",
+    "day": "TUE",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "04:00",
+    "day": "TUE",
+    "year": "final_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "08:30",
+    "end_time": "10:30",
+    "day": "WED",
+    "year": "final_year"
+  },
+  {
+    "class_name": "CAA & NT",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "WED",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DAA Lab",
+    "start_time": "02:30",
+    "end_time": "05:30",
+    "day": "WED",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "THU",
+    "year": "final_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "THU",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DAA",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "THU",
+    "year": "final_year"
+  },
+  {
+    "class_name": "SM",
+    "start_time": "03:00",
+    "end_time": "05:00",
+    "day": "THU",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DE & LD",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "day": "FRI",
+    "year": "final_year"
+  },
+  {
+    "class_name": "DBMS",
+    "start_time": "10:30",
+    "end_time": "12:30",
+    "day": "FRI",
+    "year": "final_year"
+  },
+  {
+    "class_name": "CO",
+    "start_time": "02:00",
+    "end_time": "03:00",
+    "day": "FRI",
+    "year": "final_year"
+  },
+  {
+    "class_name": "CA & NT",
+    "start_time": "03:00",
+    "end_time": "04:00",
+    "day": "FRI",
+    "year": "final_year"
   }
 ]
